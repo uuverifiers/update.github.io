@@ -23,7 +23,7 @@ url: "https://update.github.io" # the base hostname & protocol for your site
 github_username:  uuverifiers
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
